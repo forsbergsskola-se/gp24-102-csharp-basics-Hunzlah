@@ -1,0 +1,15 @@
+C:\Users\AlienwareM15\RiderProjects\P090Operators\P13GoTo\P13GoTo\P13GoTo\bin\Debug\net6.0\P13GoTo.exe
+C:\Users\AlienwareM15\RiderProjects\P090Operators\P13GoTo\P13GoTo\P13GoTo\bin\Debug\net6.0\P13GoTo.deps.json
+C:\Users\AlienwareM15\RiderProjects\P090Operators\P13GoTo\P13GoTo\P13GoTo\bin\Debug\net6.0\P13GoTo.runtimeconfig.json
+C:\Users\AlienwareM15\RiderProjects\P090Operators\P13GoTo\P13GoTo\P13GoTo\bin\Debug\net6.0\P13GoTo.dll
+C:\Users\AlienwareM15\RiderProjects\P090Operators\P13GoTo\P13GoTo\P13GoTo\bin\Debug\net6.0\P13GoTo.pdb
+C:\Users\AlienwareM15\RiderProjects\P090Operators\P13GoTo\P13GoTo\P13GoTo\obj\Debug\net6.0\P13GoTo.csproj.AssemblyReference.cache
+C:\Users\AlienwareM15\RiderProjects\P090Operators\P13GoTo\P13GoTo\P13GoTo\obj\Debug\net6.0\P13GoTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlienwareM15\RiderProjects\P090Operators\P13GoTo\P13GoTo\P13GoTo\obj\Debug\net6.0\P13GoTo.AssemblyInfoInputs.cache
+C:\Users\AlienwareM15\RiderProjects\P090Operators\P13GoTo\P13GoTo\P13GoTo\obj\Debug\net6.0\P13GoTo.AssemblyInfo.cs
+C:\Users\AlienwareM15\RiderProjects\P090Operators\P13GoTo\P13GoTo\P13GoTo\obj\Debug\net6.0\P13GoTo.csproj.CoreCompileInputs.cache
+C:\Users\AlienwareM15\RiderProjects\P090Operators\P13GoTo\P13GoTo\P13GoTo\obj\Debug\net6.0\P13GoTo.dll
+C:\Users\AlienwareM15\RiderProjects\P090Operators\P13GoTo\P13GoTo\P13GoTo\obj\Debug\net6.0\refint\P13GoTo.dll
+C:\Users\AlienwareM15\RiderProjects\P090Operators\P13GoTo\P13GoTo\P13GoTo\obj\Debug\net6.0\P13GoTo.pdb
+C:\Users\AlienwareM15\RiderProjects\P090Operators\P13GoTo\P13GoTo\P13GoTo\obj\Debug\net6.0\P13GoTo.genruntimeconfig.cache
+C:\Users\AlienwareM15\RiderProjects\P090Operators\P13GoTo\P13GoTo\P13GoTo\obj\Debug\net6.0\ref\P13GoTo.dll
