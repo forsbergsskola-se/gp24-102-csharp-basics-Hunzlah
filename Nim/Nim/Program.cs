@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-
+// https://github.com/forsbergsskola-se/gp24-102-csharp-basics-Hunzlah
 
 bool isPlayerTurn = true;
 int numberOfMatches = 24;
