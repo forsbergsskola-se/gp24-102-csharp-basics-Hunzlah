@@ -1,7 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
-Console.WriteLine("Give me a number of seconds");
+Console.WriteLine("Output: Give me a number of seconds");
+Console.Write("Input: ");
 int userInput = Convert.ToInt32(Console.ReadLine());
 
 int secondsInADay = 60 * 60 * 24;
@@ -15,12 +16,12 @@ int hours = GetHours();
 int minutes = GetMinutes();
 int seconds = GetSeconds();
 
-Console.WriteLine($"Seconds: {seconds}");
-Console.WriteLine($"Minutes: {minutes}");
-Console.WriteLine($"Hours: {hours}");
-Console.WriteLine($"Days: {days}");
-Console.WriteLine($"{days}:{hours}:{minutes}:{seconds}");
-Console.WriteLine($"In total that's {totalInDays} days.");
+Console.WriteLine($"Output: Seconds: {seconds}");
+Console.WriteLine($"Output: Minutes: {minutes}");
+Console.WriteLine($"Output: Hours: {hours}");
+Console.WriteLine($"Output: Days: {days}");
+Console.WriteLine($"Output: {days}:{hours}:{minutes}:{seconds}");
+Console.WriteLine($"Output: In total that's {totalInDays} days.");
 
 int GetDays()
 {

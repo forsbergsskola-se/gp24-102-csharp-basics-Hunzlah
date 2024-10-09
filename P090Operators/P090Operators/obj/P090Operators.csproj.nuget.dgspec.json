@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AlienwareM15\\RiderProjects\\P090Operators\\P090Operators\\P090Operators\\P090Operators.csproj": {}
+    "C:\\Users\\AlienwareM15\\Documents\\GitHub\\gp24-102-csharp-basics-Hunzlah\\P090Operators\\P090Operators\\P090Operators.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AlienwareM15\\RiderProjects\\P090Operators\\P090Operators\\P090Operators\\P090Operators.csproj": {
+    "C:\\Users\\AlienwareM15\\Documents\\GitHub\\gp24-102-csharp-basics-Hunzlah\\P090Operators\\P090Operators\\P090Operators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AlienwareM15\\RiderProjects\\P090Operators\\P090Operators\\P090Operators\\P090Operators.csproj",
+        "projectUniqueName": "C:\\Users\\AlienwareM15\\Documents\\GitHub\\gp24-102-csharp-basics-Hunzlah\\P090Operators\\P090Operators\\P090Operators.csproj",
         "projectName": "P090Operators",
-        "projectPath": "C:\\Users\\AlienwareM15\\RiderProjects\\P090Operators\\P090Operators\\P090Operators\\P090Operators.csproj",
+        "projectPath": "C:\\Users\\AlienwareM15\\Documents\\GitHub\\gp24-102-csharp-basics-Hunzlah\\P090Operators\\P090Operators\\P090Operators.csproj",
         "packagesPath": "C:\\Users\\AlienwareM15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AlienwareM15\\RiderProjects\\P090Operators\\P090Operators\\P090Operators\\obj\\",
+        "outputPath": "C:\\Users\\AlienwareM15\\Documents\\GitHub\\gp24-102-csharp-basics-Hunzlah\\P090Operators\\P090Operators\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AlienwareM15\\AppData\\Roaming\\NuGet\\NuGet.Config"
