@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AlienwareM15\\RiderProjects\\P090Operators\\P13GoTo\\P13GoTo\\P13GoTo\\P13GoTo.csproj": {}
+    "C:\\Users\\AlienwareM15\\Documents\\GitHub\\gp24-102-csharp-basics-Hunzlah\\P13GoTo\\P13GoTo\\P13GoTo\\P13GoTo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AlienwareM15\\RiderProjects\\P090Operators\\P13GoTo\\P13GoTo\\P13GoTo\\P13GoTo.csproj": {
+    "C:\\Users\\AlienwareM15\\Documents\\GitHub\\gp24-102-csharp-basics-Hunzlah\\P13GoTo\\P13GoTo\\P13GoTo\\P13GoTo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AlienwareM15\\RiderProjects\\P090Operators\\P13GoTo\\P13GoTo\\P13GoTo\\P13GoTo.csproj",
+        "projectUniqueName": "C:\\Users\\AlienwareM15\\Documents\\GitHub\\gp24-102-csharp-basics-Hunzlah\\P13GoTo\\P13GoTo\\P13GoTo\\P13GoTo.csproj",
         "projectName": "P13GoTo",
-        "projectPath": "C:\\Users\\AlienwareM15\\RiderProjects\\P090Operators\\P13GoTo\\P13GoTo\\P13GoTo\\P13GoTo.csproj",
+        "projectPath": "C:\\Users\\AlienwareM15\\Documents\\GitHub\\gp24-102-csharp-basics-Hunzlah\\P13GoTo\\P13GoTo\\P13GoTo\\P13GoTo.csproj",
         "packagesPath": "C:\\Users\\AlienwareM15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AlienwareM15\\RiderProjects\\P090Operators\\P13GoTo\\P13GoTo\\P13GoTo\\obj\\",
+        "outputPath": "C:\\Users\\AlienwareM15\\Documents\\GitHub\\gp24-102-csharp-basics-Hunzlah\\P13GoTo\\P13GoTo\\P13GoTo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AlienwareM15\\AppData\\Roaming\\NuGet\\NuGet.Config"
