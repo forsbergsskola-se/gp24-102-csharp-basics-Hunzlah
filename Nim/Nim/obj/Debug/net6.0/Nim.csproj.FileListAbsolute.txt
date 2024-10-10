@@ -1,0 +1,15 @@
+C:\Users\AlienwareM15\Documents\GitHub\gp24-102-csharp-basics-Hunzlah\Nim\Nim\bin\Debug\net6.0\Nim.exe
+C:\Users\AlienwareM15\Documents\GitHub\gp24-102-csharp-basics-Hunzlah\Nim\Nim\bin\Debug\net6.0\Nim.deps.json
+C:\Users\AlienwareM15\Documents\GitHub\gp24-102-csharp-basics-Hunzlah\Nim\Nim\bin\Debug\net6.0\Nim.runtimeconfig.json
+C:\Users\AlienwareM15\Documents\GitHub\gp24-102-csharp-basics-Hunzlah\Nim\Nim\bin\Debug\net6.0\Nim.dll
+C:\Users\AlienwareM15\Documents\GitHub\gp24-102-csharp-basics-Hunzlah\Nim\Nim\bin\Debug\net6.0\Nim.pdb
+C:\Users\AlienwareM15\Documents\GitHub\gp24-102-csharp-basics-Hunzlah\Nim\Nim\obj\Debug\net6.0\Nim.csproj.AssemblyReference.cache
+C:\Users\AlienwareM15\Documents\GitHub\gp24-102-csharp-basics-Hunzlah\Nim\Nim\obj\Debug\net6.0\Nim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlienwareM15\Documents\GitHub\gp24-102-csharp-basics-Hunzlah\Nim\Nim\obj\Debug\net6.0\Nim.AssemblyInfoInputs.cache
+C:\Users\AlienwareM15\Documents\GitHub\gp24-102-csharp-basics-Hunzlah\Nim\Nim\obj\Debug\net6.0\Nim.AssemblyInfo.cs
+C:\Users\AlienwareM15\Documents\GitHub\gp24-102-csharp-basics-Hunzlah\Nim\Nim\obj\Debug\net6.0\Nim.csproj.CoreCompileInputs.cache
+C:\Users\AlienwareM15\Documents\GitHub\gp24-102-csharp-basics-Hunzlah\Nim\Nim\obj\Debug\net6.0\Nim.dll
+C:\Users\AlienwareM15\Documents\GitHub\gp24-102-csharp-basics-Hunzlah\Nim\Nim\obj\Debug\net6.0\refint\Nim.dll
+C:\Users\AlienwareM15\Documents\GitHub\gp24-102-csharp-basics-Hunzlah\Nim\Nim\obj\Debug\net6.0\Nim.pdb
+C:\Users\AlienwareM15\Documents\GitHub\gp24-102-csharp-basics-Hunzlah\Nim\Nim\obj\Debug\net6.0\Nim.genruntimeconfig.cache
+C:\Users\AlienwareM15\Documents\GitHub\gp24-102-csharp-basics-Hunzlah\Nim\Nim\obj\Debug\net6.0\ref\Nim.dll
